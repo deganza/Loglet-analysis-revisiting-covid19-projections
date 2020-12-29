@@ -1,1 +1,1 @@
-# Loglet-analysis-revisiting-covid19-projections
+# Loglet-analysis-Revisiting covid19-projections
