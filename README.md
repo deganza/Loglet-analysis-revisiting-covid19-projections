@@ -1,1 +1,2 @@
 # Loglet-analysis-Revisiting covid19-projections
+In the last article we showed how to make a forecast for the next 30 days using covid data from the John Hopkins Institute. The projections were optimized for a logistic growth model. We will show that the decomposition of growth into S-shaped logistic components also known as Loglet analysis, is more accurate as it takes into account the evolution of multiple covid waves.
